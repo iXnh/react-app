@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "id": "QWE123",
+      "image": "https://avatars.githubusercontent.com/u/27952538?s=400&u=4beb24dc0948bc4cd74294846d38cb07cffd865a&v=4",
+      "nik": "340301250695XXXX",
+      "nama": "Ikhsan N. Huda",
+      "pekerjaan": "Frontend Developer",
+      "groupId": "1"
+    },
+    {
+      "nik": "1234567889",
+      "image": "https://pbs.twimg.com/profile_images/1590968738358079488/IY9Gx6Ok_400x400.jpg",
+      "nama": "Elon Must",
+      "pekerjaan": "Ceo Twit",
+      "groupId": "",
+      "id": "bdy5-W8"
+    },
+    {
+      "nik": "123123123",
+      "image": "https://pbs.twimg.com/profile_images/1590968738358079488/IY9Gx6Ok_400x400.jpg",
+      "nama": "Must Elon",
+      "pekerjaan": "Ceo SpaceX",
+      "groupId": "",
+      "id": "SqB82uh"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "nama": "Laki-laki"
+    },
+    {
+      "id": "2",
+      "nama": "Perempuan"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+body {
+    font-family: 'Roboto Mono', monospace !important;
+    background-color: rgb(24, 165, 153) !important;
+}
+
+.contact-img {
+    border: 2px solid rgb(198, 182, 61);
+    width: 200px;
+    height: 200px;
+    border-radius: 5% ;
+}

@@ -21,7 +21,7 @@
 
 
 ## kebutuhan instal 
-1. react libraries     = npx create-react-app rgb
+1. react libraries     = npx create-react-app react-app
 2. react router        = npm i react-router-dom 
 3. axios               = npm i axios 
 

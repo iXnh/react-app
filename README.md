@@ -16,8 +16,8 @@
 - react-router-dom
 
 
-## deadline pengerjaan ?
-2 hari 
+<!-- ## deadline pengerjaan ?
+2 hari --!>
 
 
 ## kebutuhan instal 

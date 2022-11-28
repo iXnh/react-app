@@ -15,11 +15,6 @@
 - axios
 - react-router-dom
 
-
-<!-- ## deadline pengerjaan ?
-2 hari --!>
-
-
 ## kebutuhan instal 
 1. react libraries     = npx create-react-app react-app
 2. react router        = npm i react-router-dom 
